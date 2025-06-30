@@ -1,0 +1,5 @@
+./visual/*
+__pycache__/*
+essentials/*
+logs/*
+mini_data/*
